@@ -1,0 +1,4 @@
+<view class="index">
+<button class="botton1" type="primary" size="mini"  bindtap="TurnOnLight">开灯</button>
+<button type="warn" size="mini"  bindtap="TurnOffLight">关灯</button>
+</view>
